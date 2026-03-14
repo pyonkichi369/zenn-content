@@ -2,7 +2,7 @@
 title: "Claude Codeで開発速度が10倍になった具体的な方法"
 emoji: "📝"
 type: "tech"
-topics: ["claudecode", "ai", "python", "プログラミング", "開発効率化"]
+topics: ["AI", "プログラミング", "エンジニア"]
 published: true
 ---
 
